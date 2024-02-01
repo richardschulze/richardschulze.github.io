@@ -5,7 +5,7 @@ author_profile: true
 
 # Selected Publications
 
-You can find my publications also on my [Google Scholar](https://scholar.google.de/citations?user=njDb_rMAAAAJ&hl=en&oi=ao) and [dblp](https://dblp.uni-trier.de/pid/204/7105.html) profiles.
+You can find my publications also on my [Google Scholar](https://scholar.google.de/citations?user=_E9XYscAAAAJ&hl=de&oi=ao) and [dblp](https://dblp.org/pid/236/3029.html) profiles.
 
 1.  A. Rasch, R. Schulze, D. Shabalin, A. Elster, S. Gorlatch, M. Hall \\
     [(De/Re)-Compositions Expressed Systematically via MDH-Based Schedules](https://dl.acm.org/doi/abs/10.1145/3578360.3580269) \\
