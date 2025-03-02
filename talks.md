@@ -5,7 +5,11 @@ author_profile: true
 
 # Selected Talks
 
-1.  [Code Generation and Optimization for Deep-Learning Computations on GPUs via Multi-Dimensional Homomorphisms](https://accml.dcs.gla.ac.uk/workshop-2022-hipeac.html) \\
+1.  [pyATF: Constraint-Based Auto-Tuning in Python](https://conf.researchr.org/home/CC-2025) \\
+    ACM SIGPLAN 2025 International Conference on Compiler Construction (CC 2025); *Las Vegas NV, USA*\\
+    <a href="../assets/files/slides/cc25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/cc25/slides.pdf)
+
+1. [Code Generation and Optimization for Deep-Learning Computations on GPUs via Multi-Dimensional Homomorphisms](https://accml.dcs.gla.ac.uk/workshop-2022-hipeac.html) \\
     *Workshop on Accelerated Machine Learning (AccML 2022), **Invited Talk***; *Budapest, Hungary*\\
     <a href="../assets/files/slides/accml22/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/accml22/slides.pdf)
 
