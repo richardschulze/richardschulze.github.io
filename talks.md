@@ -5,6 +5,10 @@ author_profile: true
 
 # Selected Talks
 
+1.  [AI Compilation for Heterogeneous Targets via MDH and ATF](https://jnamaral.github.io/LATHC26/) \\
+    *Languages, Architectures, and Tools for Heterogeneous Computing (LATHC 2026)*; *Sydney, Australia*\\
+    <a href="../assets/files/slides/lathc26/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/lathc26/slides.pdf)
+
 1.  [pyATF: Constraint-Based Auto-Tuning in Python](https://conf.researchr.org/home/CC-2025) \\
     ACM SIGPLAN 2025 International Conference on Compiler Construction (CC 2025); *Las Vegas NV, USA*\\
     <a href="../assets/files/slides/cc25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/cc25/slides.pdf)
