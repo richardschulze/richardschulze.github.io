@@ -7,6 +7,11 @@ author_profile: true
 
 You can find my publications also on my [Google Scholar](https://scholar.google.de/citations?user=_E9XYscAAAAJ&hl=de&oi=ao) and [dblp](https://dblp.org/pid/236/3029.html) profiles.
 
+1.  R. Schulze, S. Gorlatch, **A. Rasch** \\
+    [Reduction-Aware Directive-Based Programming via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3731599.3767572) \\
+    *International Conference for High Performance Computing, Networking, Storage and Analysis (SC Workshops 2025)*\\
+    <a href="../assets/files/paper/sc25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/paper/sc25/paper.pdf)
+
 1.  **R. Schulze**, S. Gorlatch, A. Rasch \\
     [pyATF: Constraint-Based Auto-Tuning in Python](https://dl.acm.org/doi/10.1145/3708493.3712682) \\
     *ACM SIGPLAN International Conference on Compiler Construction (CC 2025)*\\
