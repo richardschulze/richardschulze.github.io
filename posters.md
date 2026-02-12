@@ -7,9 +7,9 @@ author_profile: true
 
 1.  R. Schulze, S. Gorlatch \\
     [MDH-DSL: Reduction-Aware Data Parallelism via Multi-Dimensional Homomorphisms](https://2026.cgo.org/details/cgo-2026-student-research-competition/8/MDH-DSL-Reduction-Aware-Data-Parallelism-via-Multi-Dimensional-Homomorphisms) \\
-    *IEEE/ACM International Symposium on Code Generation and Optimization (CGO 2026)*; ***Gold-Winner***; *Sydney, Australia*\\
+    *IEEE/ACM International Symposium on Code Generation and Optimization (CGO 2026)*; ***Student Research Competition Gold-Winner***; *Sydney, Australia*\\
     <a href="../assets/files/poster/cgo26/poster.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Poster](../assets/files/poster/cgo26/poster.pdf)
-    <a href="../assets/files/poster/cgo26/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/poster/cgo26/slides.pdf)
+    <a href="../assets/files/poster/cgo26/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Slides](../assets/files/poster/cgo26/slides.pdf)
     <a href="https://www.youtube.com/watch?v=ejd1vXvsmAE"><i class="fas fa-video" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Talk](https://www.youtube.com/watch?v=ejd1vXvsmAE)
 
 1.  R. Schulze, A. Rasch, S. Gorlatch \\
